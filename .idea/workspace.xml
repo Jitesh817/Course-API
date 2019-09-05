@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="112d3613-3e6c-49da-bf8f-021e84c6c10e" name="Default Changelist" comment="" />
+    <list default="true" id="112d3613-3e6c-49da-bf8f-021e84c6c10e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/course/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/course/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/course/CourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/course/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/topic/TopicRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/CourseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/CourseRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/CourseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/TopicRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/course-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/course-api-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/topic/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/topic/Topic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/topic/TopicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/topic/TopicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/CourseApiApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/CourseApiApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/hello/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/hello/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/Topic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/Topic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/TopicController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/TopicController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/TopicService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/TopicService.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +51,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -33,14 +68,24 @@
     </option>
   </component>
   <component name="ProjectId" id="1QNL4XVHmP2taIFglJQimHLFThu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/course" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\workspace\Java Brains Course API\src\main\java\io\javabrains\springbootstarter\course" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -85,11 +130,22 @@
       <option name="presentableId" value="Default" />
       <updated>1567605916692</updated>
       <workItem from="1567605919557" duration="7849000" />
-      <workItem from="1567692019482" duration="667000" />
+      <workItem from="1567692019482" duration="10274000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
