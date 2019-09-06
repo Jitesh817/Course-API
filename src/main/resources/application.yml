@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Java-Brains-Course-API
+  security:
+    user:
+      name: username
+      password: password
