@@ -2,36 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="112d3613-3e6c-49da-bf8f-021e84c6c10e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/course/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/course/CourseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/course/CourseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/course/CourseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/topic/TopicRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/CourseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/CourseRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/CourseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/TopicRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/course-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/course-api-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/topic/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/topic/Topic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/topic/TopicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/topic/TopicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/topic/TopicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/topic/TopicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/CourseApiApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/CourseApiApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/CourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/CourseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/CourseRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/CourseRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/CourseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/course/CourseService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/hello/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/hello/HelloController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/Topic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/Topic.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/TopicController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/TopicController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/TopicRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/TopicRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/TopicService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/topic/TopicService.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,7 +115,8 @@
       <option name="presentableId" value="Default" />
       <updated>1567605916692</updated>
       <workItem from="1567605919557" duration="7849000" />
-      <workItem from="1567692019482" duration="10274000" />
+      <workItem from="1567692019482" duration="10605000" />
+      <workItem from="1567788332551" duration="630000" />
     </task>
     <servers />
   </component>
@@ -142,7 +128,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
